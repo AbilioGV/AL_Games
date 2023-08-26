@@ -1,0 +1,10 @@
+.cards {
+    display: flex;
+    gap: 96px;
+    margin-left: 96px;
+    padding-bottom: 40px;
+}
+
+.image__card {
+    width: 100px;
+}
